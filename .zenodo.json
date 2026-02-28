@@ -1,0 +1,24 @@
+{
+  "title": "Why Hierarchical Attention Works",
+  "description": "Paper PDF and source package for the fixed-slice (within-endpoint) gap diagnostics of hierarchical attention.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "v1.0",
+  "creators": [
+    {
+      "name": "Zhao, Zihe",
+      "orcid": "0009-0008-4692-4408"
+    }
+  ],
+  "keywords": [
+    "hierarchical attention",
+    "endpoint diagnostics",
+    "fixed-slice",
+    "total variation distance",
+    "Kullback-Leibler divergence",
+    "relative entropy",
+    "coarse-graining",
+    "renormalization group"
+  ]
+}
