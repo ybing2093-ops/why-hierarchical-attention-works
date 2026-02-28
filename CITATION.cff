@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Why Hierarchical Attention Works"
+authors:
+  - family-names: "Zhao"
+    given-names: "Zihe"
+repository-code: "https://github.com/ybing2093-ops/why-hierarchical-attention-works"
+
+preferred-citation:
+  type: article
+  title: "Why Hierarchical Attention Works"
+  authors:
+    - family-names: "Zhao"
+      given-names: "Zihe"
+  doi: "10.XXXX/PLACEHOLDER"
